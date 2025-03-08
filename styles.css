@@ -24,7 +24,7 @@
   }
   
   .content {
-    padding: 10px;
+    padding: 20px;
   }
   
   .principles h2 {
@@ -87,7 +87,7 @@
   
   /* Main content */
   main {
-    margin-top: 80px; /* To avoid overlap with the fixed header */
+    margin-top: 50px; /* To avoid overlap with the fixed header */
     padding: 20px;
   }
   
