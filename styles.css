@@ -18,6 +18,10 @@
     color: rgb(212, 22, 22);
     padding: 10px 20px;
   }
+.logo img {
+  width: 20px; /* Ajusta el tamaño del logo según lo necesites */
+  height: auto;
+}
   
   header h1 {
     font-size: 30px;
