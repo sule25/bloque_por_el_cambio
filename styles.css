@@ -20,7 +20,7 @@
   }
   
   header h1 {
-    font-size: 20px;
+    font-size: 30px;
   }
   
   .content {
@@ -88,7 +88,7 @@
   /* Main content */
   main {
     margin-top: 50px; /* To avoid overlap with the fixed header */
-    padding: 20px;
+    padding: 10px;
   }
   
   h2 {
