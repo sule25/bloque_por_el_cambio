@@ -13,6 +13,7 @@
   }
   
   header {
+    text-align: center;
     background-color: #0a0a0a;
     color: rgb(212, 22, 22);
     padding: 10px 20px;
