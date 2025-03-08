@@ -19,8 +19,8 @@
     padding: 10px 20px;
   }
 .logo img {
-  width: 5px; /* Ajusta el tamaño del logo según lo necesites */
-  height: 5px;
+  width: 10px; /* Ajusta el tamaño del logo según lo necesites */
+  height: automatic;
 }
   
   header h1 {
