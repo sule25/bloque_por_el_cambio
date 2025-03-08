@@ -8,19 +8,30 @@
   /* Body and general layout */
   body {
     font-family: 'Arial', sans-serif;
-    background-color: #111212;
+    background-color: #f4f7fa;
     color: #333;
   }
   
   /* Header */
   header {
-    background-color: #2d3e50;
+    background-color: #090a0a;
     padding: 10px 20px;
     position: fixed;
     width: 100%;
     top: 0;
     left: 0;
     z-index: 1000;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  h1 {
+    color: #fff;
+    font-size: 24px;
   }
   
   .header-content {
