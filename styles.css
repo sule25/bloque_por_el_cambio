@@ -8,7 +8,7 @@
   /* Body and general layout */
   body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f7fa;
+    background-color: #8bc3fc;
     color: #6b1616;
   }
   
@@ -30,7 +30,6 @@
   }
   
   h1 {
-    color: #fff;
+    color: #8b1b1b;
     font-size: 24px;
   }
-  
