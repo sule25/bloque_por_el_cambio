@@ -20,7 +20,7 @@
   }
 .logo img {
   width: 10px; /* Ajusta el tamaño del logo según lo necesites */
-  height: automatic;
+  height: auto;
 }
   
   header h1 {
