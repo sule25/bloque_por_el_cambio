@@ -9,7 +9,7 @@
   body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f7fa;
-    color: #333;
+    color: #6b1616;
   }
   
   /* Header */
@@ -34,29 +34,3 @@
     font-size: 24px;
   }
   
-  .header-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  h1 {
-    color: #fff;
-    font-size: 24px;
-  }
-  
-  #location-time {
-    color: #fff;
-    font-size: 16px;
-  }
-  
-  /* Main content */
-  main {
-    margin-top: 80px; /* To avoid overlap with the fixed header */
-    padding: 20px;
-  }
-  
-  h2 {
-    font-size: 30px;
-    margin-bottom: 10px;
-  }
