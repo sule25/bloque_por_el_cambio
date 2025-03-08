@@ -1,0 +1,51 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body and general layout */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fa;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    background-color: #2d3e50;
+    padding: 10px 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  h1 {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  #location-time {
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  /* Main content */
+  main {
+    margin-top: 80px; /* To avoid overlap with the fixed header */
+    padding: 20px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
